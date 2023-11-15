@@ -1,0 +1,15 @@
+body {
+  background: #0B2434;
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-content: center;
+  padding: 20px;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Kanit', sans-serif;
+}
